@@ -1,4 +1,22 @@
-[css].classname {
-color: #333333;
-font-family: Impact, Charcoal, sans-serif;
-}[/css]
+
+
+ h1{
+
+  font-family:Corsiva;
+  color:charcoal;
+}
+
+ h2{
+  font-family: Handwriting;
+  color:charcoal;
+}
+
+p{
+ font-family: Corsiva;
+}
+
+body {
+    background-color:	 #ff1a75 ;
+}
+
+
